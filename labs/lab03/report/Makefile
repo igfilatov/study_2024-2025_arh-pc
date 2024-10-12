@@ -32,6 +32,6 @@ all: $(FILES)
 
 
 clean:
-	-rm $(FILES) *~
+	-rm $(FILES)
 
 cleanall: clean
